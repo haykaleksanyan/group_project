@@ -10,4 +10,9 @@ Members of "group_name":
 
 
 # Project class description:
+class Ship։ has instance variables coordinates, size, direction (horizontal/vertical), and state (shot/exploded)․
+
+class Board: has instance variables height, width, and state (shot/clean/occupied).
+
+class Player։ Player1 and Player2 will inherit its characteristics.
 
