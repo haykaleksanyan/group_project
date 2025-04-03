@@ -1,5 +1,5 @@
 # group_project
-This repository has been created for the օur group project by students from the course CSE120, section D, at AUA.
+This repository has been created for օur group project by students from the course CSE120, section D, at AUA.
 
 Members of our group:
    - Karine Papoyan       <karine_papoyan@edu.aua.am>
