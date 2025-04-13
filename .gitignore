@@ -1,0 +1,13 @@
+# Ignore IntelliJ IDEA settings
+.idea/
+*.iml
+
+# Ignore build output
+/.idea/
+/out/
+build/
+target/
+
+# Ignore OS junk files
+.DS_Store
+Thumbs.db
