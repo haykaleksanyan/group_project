@@ -3,7 +3,7 @@
 *.iml
 
 # Ignore build output
-/.idea/
+.idea/
 /out/
 build/
 target/
