@@ -29,7 +29,8 @@ This project demonstrates object-oriented programming (OOP) principles such as:
 ---
 
 ## 📁 Project Structure
-```src/ 
+```
+src/ 
 │ 
 ├── Main.java </br>
 ├── Board.java </br>
