@@ -32,14 +32,14 @@ This project demonstrates object-oriented programming (OOP) principles such as:
 ```
 src/ 
 │ 
-├── Main.java </br>
-├── Board.java </br>
-├── Player.java </br>
-├── Coordinate.java </br>
-├── Ship.java </br>
-├── Rocket.java </br>
-├── Weapon.java </br>
-├── Bomb.java </br>
+├── Main.java 
+├── Board.java 
+├── Player.java
+├── Coordinate.java 
+├── Ship.java 
+├── Rocket.java 
+├── Weapon.java 
+├── Bomb.java 
 ```
 ---
 
