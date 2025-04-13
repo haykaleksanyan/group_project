@@ -29,16 +29,16 @@ This project demonstrates object-oriented programming (OOP) principles such as:
 ---
 
 ## 📁 Project Structure
-src/ 
-│ 
-├── Main.java 
-├── Board.java 
-├── Player.java 
-├── Coordinate.java
-├── Ship.java 
-├── Rocket.java 
-├── Weapon.java 
-├── Bomb.java 
+```src/ ```
+```│ ```
+```├── Main.java ```
+```├── Board.java ```
+```├── Player.java ```
+```├── Coordinate.java```
+```├── Ship.java``` 
+```├── Rocket.java ```
+```├── Weapon.java ```
+```├── Bomb.java ```
 
 ---
 
