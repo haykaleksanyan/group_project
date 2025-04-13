@@ -5,7 +5,8 @@ public class Ship {
     private boolean isHorizontal;
     private boolean[] hits;
 
-    public Ship(int size, int startRow, int startCol, boolean isHorizontal){
+
+    public Ship(int size, int startRow, int startCol, boolean isHorizontal) {
         this.size = size;
         this.startRow = startRow;
         this.startCol = startCol;
@@ -33,21 +34,29 @@ public class Ship {
         return hits;
     }
 
-    public Ship(Ship that){
+    public Ship(Ship that) {
         this.size = that.size;
         this.startRow = that.startRow;
         this.startCol = that.startCol;
         this.isHorizontal = that.isHorizontal;
 
         this.hits = new boolean[size];
-        for(int i = 0; i < size; i++){
+        for (int i = 0; i < size; i++) {
             this.hits[i] = that.hits[i];
         }
     }
 
-    public boolean isSunk(){
-        for (int i = 0; i < size; i++){
-            if(!hits[i]){
+    public boolean isHit(int row, int col) {
+        if (isHorizontal) {
+           return hits[col - startCol];
+        } else {
+           return hits[row - startRow];
+        }
+    }
+
+    public boolean isSunk() {
+        for (int i = 0; i < size; i++) {
+            if (!hits[i]) {
                 return false;
             }
         }
@@ -64,14 +73,13 @@ public class Ship {
 
     public void registerHit(int row, int col) {
         if (isOcuupied(row, col)) {
-            if(isHorizontal){
+            if (isHorizontal) {
                 hits[col - startCol] = true;
-            } else{
+            } else {
                 hits[row - startRow] = true;
             }
         }
     }
-
 
 
 }
