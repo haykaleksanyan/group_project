@@ -1,5 +1,6 @@
-package core;//import exceptions
-
+package core;
+//import exceptions
+import exceptions.*;
 
 public class Board {
     public static final int BOARD_SIZE = 10;

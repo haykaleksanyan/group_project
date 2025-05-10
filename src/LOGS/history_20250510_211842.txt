@@ -1,0 +1,108 @@
+[2025-05-10 21:18:42] Game started between: Player 1 and AI Player
+[2025-05-10 21:18:42] 
+Player 1's initial board:
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] 
+[2025-05-10 21:18:42] 
+AI Player's initial board:
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:42] 
+[2025-05-10 21:18:53] Player 1's ships placed:
+[2025-05-10 21:18:53] 
+Player 1's final ship positions:
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ □ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ □ ]
+[2025-05-10 21:18:53] [ ~ □ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ □ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ □ ~ ~ ~ □ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ □ ]
+[2025-05-10 21:18:53] [ ~ ~ □ ~ □ ~ □ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] 
+[2025-05-10 21:18:53] AI Player's ships placed:
+[2025-05-10 21:18:53] 
+AI Player's final ship positions:
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ □ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ □ ]
+[2025-05-10 21:18:53] [ ~ ~ □ ~ ~ □ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ □ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ □ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ □ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ □ ~ ~ ~ ~ ~ □ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ]
+[2025-05-10 21:18:53] [ ~ ~ ~ ~ ~ ~ ~ ~ □ ~ ]
+[2025-05-10 21:18:53] 
+[2025-05-10 21:18:57] Player 1 inventory: 1 weapons, Budget: $230
+[2025-05-10 21:18:57] AI Player inventory: 3 weapons, Budget: $100
+[2025-05-10 21:19:01] Player 1 used Basic Attack on (3, 3) → MISS
+[2025-05-10 21:19:01] Player 1 used Basic at (3, 3) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:01] AI Player used Basic Attack on (0, 5) → HIT
+[2025-05-10 21:19:01] AI Player used Basic Attack on (1, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (2, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (3, 5) → HIT
+[2025-05-10 21:19:01] AI Player used Basic Attack on (4, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (5, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (6, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (7, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (8, 5) → MISS
+[2025-05-10 21:19:01] AI Player used Basic Attack on (9, 5) → MISS
+[2025-05-10 21:19:02] Player 1 used Basic Attack on (6, 6) → MISS
+[2025-05-10 21:19:02] Player 1 used Basic at (6, 6) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:02] AI Player used Basic Attack on (0, 1) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (0, 2) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (0, 3) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (1, 1) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (1, 2) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (1, 3) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 1) → HIT
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 2) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 3) → MISS
+[2025-05-10 21:19:02] Player 1 used Basic Attack on (0, 6) → MISS
+[2025-05-10 21:19:02] Player 1 used Basic at (0, 6) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 0) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 4) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 6) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 7) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 8) → MISS
+[2025-05-10 21:19:02] AI Player used Basic Attack on (2, 9) → MISS
+[2025-05-10 21:19:03] Player 1 used Basic Attack on (6, 3) → MISS
+[2025-05-10 21:19:03] Player 1 used Basic at (6, 3) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:03] AI Player used Basic Attack on (7, 9) → HIT
+[2025-05-10 21:19:04] Player 1 used Basic Attack on (4, 7) → MISS
+[2025-05-10 21:19:04] Player 1 used Basic at (4, 7) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:04] AI Player used Basic Attack on (3, 6) → MISS
+[2025-05-10 21:19:04] Player 1 used Basic Attack on (7, 7) → MISS
+[2025-05-10 21:19:04] Player 1 used Basic at (7, 7) on AI Player (Weapons left: 1)
+[2025-05-10 21:19:04] AI Player used Basic Attack on (0, 7) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 0) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 1) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 2) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 4) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 5) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 6) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 7) → MISS
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 8) → HIT
+[2025-05-10 21:19:05] Player 1 used Basic Attack on (3, 9) → MISS
+[2025-05-10 21:19:05] Player 1 used MissileH at (3, 4) on AI Player (Weapons left: 0)
+[2025-05-10 21:19:05] AI Player used Basic Attack on (1, 6) → MISS

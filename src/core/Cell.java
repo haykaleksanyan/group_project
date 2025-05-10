@@ -1,4 +1,6 @@
-package core;//import exception
+package core;
+//import exception
+import exceptions.*;
 
 public class Cell {
     private boolean hasShip;
