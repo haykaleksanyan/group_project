@@ -6,11 +6,7 @@ public class Missile extends Weapon {
     private boolean isVertical;
 
     public Missile(boolean isVertical) {
-        WeaponType wt = WeaponType.MISSILE_H;
-        if (isVertical) {
-            wt = WeaponType.MISSILE_V;
-        }
-        super(wt);
+        super(isVertical ? WeaponType.MISSILE_V : WeaponType.MISSILE_H);
         this.isVertical = isVertical;
     }
 
