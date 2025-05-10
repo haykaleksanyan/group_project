@@ -955,14 +955,6 @@ public class SeaBattleGUI extends JFrame {
         refreshGuiGrids();
     }
 
-    public static void main(String[] args) {
-        SwingUtilities.invokeLater(new Runnable() {
-            public void run() {
-                new SeaBattleGUI();
-            }
-        });
-    }
-
     class ImagePanel extends JPanel {
         private Image backgroundImage;
 

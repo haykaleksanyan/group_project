@@ -24,9 +24,4 @@ public class BasicAttack extends Weapon {
     public String toString() {
         return getDisplayName() + " (free)";
     }
-
-    public static void main(String[] args) {
-        BasicAttack m = new BasicAttack();
-        System.out.println(m);
-    }
 }
